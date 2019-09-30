@@ -1,3 +1,5 @@
 First things first
 Second commit now.
 Third now.
+
+Now we have first commit after copy of repo taken...
