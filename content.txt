@@ -3,3 +3,4 @@ Second commit now.
 Third now.
 
 Now we have first commit after copy of repo taken...
+Second commit after the copy of repo taken.
